@@ -12,9 +12,9 @@ I am a current student at the University of Waterloo studying Computer Science.
 ![](https://img.shields.io/github/stars/braydonwang?style=social)
 ![](https://img.shields.io/github/watchers/braydonwang/braydonwang.github.io?style=social)
 
-<a href="https://github.com/braydonwang">
+<a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydonwang&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydonwang&theme=gotham&show_icons=true)" alt="Braydon's GitHub Stats" />
 </a>
