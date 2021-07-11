@@ -18,3 +18,9 @@
 <a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydonwang&theme=gotham&show_icons=true)" alt="Braydon's GitHub Stats" />
 </a>
+
+## 📝 Contact Me
+* Email: [`braydon.wang@gmail.com`](mailto:braydon.wang@gmail.com)
+* Instagram: https://www.instagram.com/braydon.wang/
+* LinkedIn: https://www.linkedin.com/in/braydon-wang-9899bb214/
+* Discord: `Braydon#3691`
