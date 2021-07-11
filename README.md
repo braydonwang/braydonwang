@@ -4,5 +4,5 @@
 
 I am a current student at the University of Waterloo studying Computer Science.
 
-https://img.shields.io/github/followers/braydonwang?style=social
+![]https://img.shields.io/github/followers/braydonwang?style=social
 
