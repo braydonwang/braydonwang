@@ -22,5 +22,5 @@
 ## 📝 Contact Me
 * Email: [`braydon.wang@gmail.com`](mailto:braydon.wang@gmail.com)
 * Instagram: https://www.instagram.com/braydon.wang/
-* LinkedIn: https://www.linkedin.com/in/braydon-wang-9899bb214/
+* LinkedIn: https://www.linkedin.com/in/braydonwang/
 * Discord: `Braydon#3691`
