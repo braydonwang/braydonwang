@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Braydon Wang!
 
-<b> I am a current student at the University of Waterloo studying Computer Science. Testing! </b>
+<b> I am a current student at the University of Waterloo studying Computer Science. </b>
 
 ## &#x1f4c8; Github Stats
 
