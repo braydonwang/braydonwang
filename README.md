@@ -72,7 +72,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
 </a>
 
 ## 📝 Contact Me
-* Email: [`braydon.wang@gmail.com`](mailto:braydon.wang@gmail.com)
-* Instagram: https://www.instagram.com/braydon.wang/
+* <img src="https://braydonwang.github.io/gmail2.png" width="20"> Email: [`braydon.wang@gmail.com`](mailto:braydon.wang@gmail.com)
+* <img style="filter:invert(100%)" src="https://braydonwang.github.io/instagram.png" width="20"> Instagram: https://www.instagram.com/braydon.wang/
 * LinkedIn: https://www.linkedin.com/in/braydonwang/
 * Discord: `Braydon#3691`
