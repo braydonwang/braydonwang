@@ -20,6 +20,11 @@ I am an avid computer science learner as I am fascinated by all the things compu
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
     </a>
   </p>
+  <p>
+    <a href="https://github.com/braydonwang/Competitive-Science-Club">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=gotham&show_owner=true"/>
+    </a>
+  </p>
 </details>
 
 ## Web Development
