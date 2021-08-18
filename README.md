@@ -8,18 +8,48 @@ I am an avid computer science learner as I am fascinated by all the things compu
 
 ## Competitive Programming
 
-<p>
-  <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
-  </a>
-  <a href="https://github.com/braydonwang/Programming-Algorithm-Templates">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
-  </a>
-</p>
+<details open>
+  <summary> My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practise by solving problems on various platforms like DMOJ and Codeforces, and I've participated in a number of contests including CCC, USACO and ECOO. </summary>
+  
+  <br />
+  <p>
+    <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/braydonwang/Programming-Algorithm-Templates">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
+    </a>
+  </p>
+</details>
 
 ## Web Development
 
+<details open>
+  <summary> During the summer, my goal was to create my own website to teach myself the basics of HTML and CSS. I was able to do this by watching many tutorial videos and trying things out myself. In the end, I was able to create a fully functioning website where I display all of my projects, contacts and resume. </summary>
+  
+  <br />
+  <p>
+    <a href="https://github.com/braydonwang/braydonwang.github.io">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=braydonwang.github.io&theme=gotham&show_owner=true"/>
+    </a>
+  </p>
+</details>
+
 ## Machine Learning
+
+<details open>
+  <summary> My curiosity for machine learning made me attend a bootcamp over the summer that went over the basics of prediction models and neural networks. Ever since that experience, I wanted to learn everything that this large and complex topic offered. Currently, I am delving into the subtopic of Natural Language Processing (NLP) and learning how computers communicate with humans through language. </summary>
+  
+  <br />
+  <p>
+    <a href="https://github.com/braydonwang/MachineLearningBootcamp2021">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=MachineLearningBootcamp2021&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/braydonwang/Natural-Language-Processing-Assignments">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Natural-Language-Processing-Assignments&theme=gotham"/>
+    </a>
+  </p>
+</details>
 
 ## &#x1f4c8; Github Stats
 
