@@ -8,9 +8,14 @@ I am an avid computer science learner as I am fascinated by all the things compu
 
 ## Competitive Programming
 
-<a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-  Solutions&theme=radical&show_owner=true"/>
-  </a>
+<p>
+    <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=radical&show_owner=true"/>
+    </a>
+    <a href="https://github.com/EmeraldEntities/hofBOTcl">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmeraldEntities&repo=hofBOTcl&theme=radical"/>
+    </a>
+  </p>
 
 ## Web Development
 
