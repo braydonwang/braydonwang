@@ -9,7 +9,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
 ## Competitive Programming
 
 <details open>
-  <summary> My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practise by solving problems on various platforms like DMOJ and Codeforces, and I've participated in a number of contests including CCC, USACO and ECOO. </summary>
+  <summary> My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practise by solving problems on various platforms like DMOJ and Codeforces, and I've participated in a number of contests including CCC, USACO and ECOO. I'm also senior executive of my school's computer science club so I am able to teach what I know to others that share the same interest. </summary>
   
   <br />
   <p>
