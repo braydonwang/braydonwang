@@ -21,7 +21,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
     </a>
   </p>
   <p>
-    <a href="https://github.com/braydonwang/Competitive-Science-Club">
+    <a href="https://github.com/braydonwang/Computer-Science-Club">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=gotham&show_owner=true"/>
     </a>
   </p>
