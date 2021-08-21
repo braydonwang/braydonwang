@@ -1,6 +1,7 @@
 [![Header](header.png "Header")](https://braydonwang.github.io)
 
-# Hi, I’m Braydon Wang! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Braydon Wang!
+===============	
 
 Hello! I'm Braydon Wang, a current student at the University of Waterloo studying Computer Science. Before university, I attended Richmond Hill High School in Ontario, Canada.
 
