@@ -1,4 +1,4 @@
-[![Header](header.png "Header")](https://braydonwang.github.io)
+[![Header](header.gif "Header")](https://braydonwang.github.io)
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Braydon Wang!
 ===============	
