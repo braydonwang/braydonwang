@@ -1,7 +1,13 @@
 [![Header](header.gif "Header")](https://braydonwang.github.io)
 
 <a href="https://discord.gg/XTW52Kt">
+  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
   <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
