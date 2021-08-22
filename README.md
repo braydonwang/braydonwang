@@ -6,8 +6,14 @@
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="right" alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="right" alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Braydon Wang!
