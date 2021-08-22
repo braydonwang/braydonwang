@@ -19,7 +19,7 @@
   <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/braydonwang/">
-  <img align="right" alt="Braydon's LinkedIn" width="32px" src="hhttps://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
+  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
 </a>
 <a href="mailto: braydon.wang@gmail.com">
   <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
