@@ -66,7 +66,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
 ![](https://img.shields.io/github/watchers/braydonwang/braydonwang.github.io?style=social)
 
 <a href="https://github.com/braydonwang/braydonwang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydonwang&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydonwang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
 <a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydonwang&theme=gotham&show_icons=true)" alt="Braydon's GitHub Stats" />
