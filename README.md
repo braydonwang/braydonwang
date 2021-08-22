@@ -1,25 +1,25 @@
 [![Header](header.gif "Header")](https://braydonwang.github.io)
 
 <a href="https://github.com/braydonwang">
-  <img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" />
 </a>
 <a href="https://join.skype.com/invite/Sqsx0xmbdagi">
   <img align="right" alt="Braydon's Skype" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/skype.png" />
 </a>
 <a href="https://discord.com/users/255388221943447552">
-  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
 </a>
 <a href="https://www.instagram.com/braydon.wang/">
   <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
 <a href="https://twitter.com/BrrayBray123">
-  <img align="right" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="right" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/braydon.wang.5">
-  <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/braydonwang/">
-  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Braydon's LinkedIn" width="32px" src="hhttps://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
 </a>
 <a href="mailto: braydon.wang@gmail.com">
   <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
