@@ -1,8 +1,18 @@
 [![Header](header.gif "Header")](https://braydonwang.github.io)
 
+<a href="https://discord.gg/XTW52Kt">
+  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="right" alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Braydon Wang!
 ===============	
-
+  
 Hello! I'm Braydon Wang, a current student at the University of Waterloo studying Computer Science. Before university, I attended Richmond Hill High School in Ontario, Canada.
 
 I am an avid computer science learner as I am fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I also enjoy doing side projects from time to time to apply what I have learned into something useful. Python was the language I started programming with, but soon after, I've been using Java a lot more. Most of my school projects and competitive programming solutions are written in Java. Recently, I've been trying to learn new languages including C++, C and Racket. I've also been trying out web development using HTML and CSS by purely learning off of Youtube videos and trial and error. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
