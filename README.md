@@ -1,25 +1,28 @@
 [![Header](header.gif "Header")](https://braydonwang.github.io)
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<a href="https://github.com/braydonwang">
+  <img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://join.skype.com/invite/Sqsx0xmbdagi">
+  <img align="right" alt="Braydon's Skype" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/skype.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="right" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
+<a href="https://discord.com/users/255388221943447552">
+  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/braydon.wang/">
+  <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="right" alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://twitter.com/BrrayBray123">
+  <img align="right" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="right" alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.facebook.com/braydon.wang.5">
+  <img align="right" alt="Braydon's Facebook" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="right" alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
+<a href="https://www.linkedin.com/in/braydonwang/">
+  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto: braydon.wang@gmail.com">
+  <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Braydon Wang!
@@ -93,9 +96,3 @@ I am an avid computer science learner as I am fascinated by all the things compu
 <a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydonwang&theme=gotham&show_icons=true)" alt="Braydon's GitHub Stats" />
 </a>
-
-## 📝 Contact Me
-* Email: [`braydon.wang@gmail.com`](mailto:braydon.wang@gmail.com)
-* Instagram: https://www.instagram.com/braydon.wang/
-* LinkedIn: https://www.linkedin.com/in/braydonwang/
-* Discord: `Braydon#3691`
