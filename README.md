@@ -25,7 +25,7 @@
   <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 
-<img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> Hi, I’m Braydon Wang!
+<img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Braydon Wang!
 ===============	
   
 Hello! I'm Braydon Wang, a current student at the University of Waterloo studying Computer Science. Before university, I attended Richmond Hill High School in Ontario, Canada.
