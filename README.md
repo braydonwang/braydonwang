@@ -39,11 +39,14 @@ I am an avid computer science learner as I am fascinated by all the things compu
   
   <br />
   <p>
+    <a href="https://github.com/braydonwang/Leetcode-Solutions">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Leetcode-Solutions&theme=gotham&show_owner=true"/>
+    </a>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
     </a>
     <a href="https://github.com/braydonwang/Programming-Algorithm-Templates">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
     </a>
   </p>
   <p>
@@ -53,15 +56,24 @@ I am an avid computer science learner as I am fascinated by all the things compu
   </p>
 </details>
 
-## Web Development
+## Full Stack Projects
 
 <details open>
-  <summary> During the summer, my goal was to create my own website to teach myself the basics of HTML and CSS. I was able to do this by watching many tutorial videos and trying things out myself. In the end, I was able to create a fully functioning website where I display all of my projects, contacts and resume. </summary>
+  <summary> Projects that helped me learn the fundamentals of combining frontend with backend. </summary>
   
   <br />
   <p>
-    <a href="https://github.com/braydonwang/braydonwang.github.io">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=braydonwang.github.io&theme=gotham&show_owner=true"/>
+    <a href="https://github.com/braydonwang/Activio-App">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/braydonwang/MERN-Social-Media-App">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=MERN-Social-Media-App&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/braydonwang/MERN-Goal-Tracker">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=MERN-Goal-Tracker&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/braydonwang/MERN-Exercise-Tracker">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=MERN-Exercise-Tracker&theme=gotham&show_owner=true"/>
     </a>
   </p>
 </details>
@@ -73,6 +85,9 @@ I am an avid computer science learner as I am fascinated by all the things compu
   
   <br />
   <p>
+    <a href="https://github.com/braydonwang/Malaria-Cell-Detection-Model">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=gotham&show_owner=true"/>
+    </a>
     <a href="https://github.com/braydonwang/MachineLearningBootcamp2021">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=braydonwang&repo=MachineLearningBootcamp2021&theme=gotham&show_owner=true"/>
     </a>
