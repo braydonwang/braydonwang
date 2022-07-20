@@ -59,7 +59,7 @@ I am an avid computer science learner as I am fascinated by all the things compu
 ## Full Stack Projects
 
 <details open>
-  <summary> Projects that helped me learn the fundamentals of combining frontend with backend. </summary>
+  <summary> Collection of personal and collaborative full-stack projects. </summary>
   
   <br />
   <p>
