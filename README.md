@@ -21,7 +21,7 @@
   
 Hello! I'm Braydon Wang, a current student at the University of Waterloo studying Computer Science.
 
-I am an avid computer science learner because I'm fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I also enjoy doing side projects from time to time to apply what I have learned into something useful. Python was the language I started programming with, but soon after, I've been using Java a lot more. Most of my school projects and competitive programming solutions are written in Java. Recently, I've been trying to learn new languages including C++, C and Racket. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
+I am an avid computer science learner because I'm fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I also enjoy doing side projects from time to time to apply what I have learned into something useful. Python was the language I started programming with, but soon after, I've been using Java a lot more. Most of my school projects and competitive programming solutions are written in Java. Recently, I've been trying to learn new languages including C++ and C. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
 
 ## Competitive Programming
 
