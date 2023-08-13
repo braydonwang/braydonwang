@@ -54,6 +54,9 @@ I am an avid computer science learner because I'm fascinated by all the things c
   
   <br />
   <p>
+    <a href="https://github.com/braydonwang/Hidden-Gems">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Hidden-Gems&theme=gotham&show_owner=true"/>
+    </a>
     <a href="https://github.com/braydonwang/Activio-App">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=gotham&show_owner=true"/>
     </a>
@@ -62,9 +65,6 @@ I am an avid computer science learner because I'm fascinated by all the things c
     </a>
     <a href="https://github.com/braydonwang/MERN-Goal-Tracker">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=MERN-Goal-Tracker&theme=gotham&show_owner=true"/>
-    </a>
-    <a href="https://github.com/braydonwang/MERN-Exercise-Tracker">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=MERN-Exercise-Tracker&theme=gotham&show_owner=true"/>
     </a>
   </p>
 </details>
