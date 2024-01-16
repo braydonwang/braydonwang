@@ -6,16 +6,18 @@
 <a href="https://www.linkedin.com/in/braydonwang/">
   <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
 </a>
-<a href="mailto: braydon.wang@gmail.com">
+<a href="mailto: b392wang@uwaterloo.ca">
   <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
 </a>
 
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Braydon Wang!
 ===============	
   
-Hello! I'm Braydon Wang, a current student at the University of Waterloo studying Computer Science.
+I'm a Computer Science student pursuing an Artificial Intelligence specialization at the University of Waterloo. I'm seeking Summer 2024 SWE internships, feel free to reach out on LinkedIn or send me an email! (b392wang@uwaterloo.ca)
 
-I am an avid computer science learner because I'm fascinated by all the things computers can do. I find myself regularly trying to learn new algorithms and techniques that I can implement in my projects. I also enjoy doing side projects from time to time to apply what I have learned into something useful. Python was the language I started programming with, but soon after, I've been using Java a lot more. Most of my school projects and competitive programming solutions are written in Java. Recently, I've been trying to learn new languages including C++ and C. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
+I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm really interested in low-level programming, concurrency, and distributed systems.
+- 👔 Currently working as a SWE @ StratumAI, previously interned as a SWE @ Super and a SWE @ Cloudspark Labs
+- 🛠 Building tech for social good @ UW Blueprint, previously building a formula-style race car @ UW Formula Electric
 
 ## Competitive Programming
 
@@ -54,7 +56,7 @@ I am an avid computer science learner because I'm fascinated by all the things c
 <details open>
   <summary> My curiosity for machine learning made me attend a bootcamp over the summer that went over the basics of prediction models and neural networks. Ever since that experience, I wanted to learn everything that this large and complex topic offered. Currently, I am delving into the subtopic of Natural Language Processing (NLP) and learning how computers communicate with humans through language. </summary>
   
-  <br />
+  <br />  22
   <p>
     <a href="https://github.com/braydonwang/Malaria-Cell-Detection-Model">
       <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=gotham&show_owner=true"/>
@@ -66,11 +68,8 @@ I am an avid computer science learner because I'm fascinated by all the things c
 </details>
 <br />
 
-## &#x1f4c8; Github Stats
+## Github Stats
 
 <a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braydonwang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-</a>
-<a href="https://github.com/braydonwang/braydonwang">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=braydonwang&theme=gotham&show_icons=true)" alt="Braydon's GitHub Stats" />
 </a>
