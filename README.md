@@ -24,17 +24,9 @@ I am an avid computer science learner because I'm fascinated by all the things c
   
   <br />
   <p>
-    <a href="https://github.com/braydonwang/Leetcode-Solutions">
-      <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Leetcode-Solutions&theme=gotham&show_owner=true"/>
-    </a>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
     </a>
-    <a href="https://github.com/braydonwang/Programming-Algorithm-Templates">
-      <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Programming-Algorithm-Templates&theme=gotham"/>
-    </a>
-  </p>
-  <p>
     <a href="https://github.com/braydonwang/Computer-Science-Club">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=gotham&show_owner=true"/>
     </a>
@@ -54,12 +46,6 @@ I am an avid computer science learner because I'm fascinated by all the things c
     <a href="https://github.com/braydonwang/Activio-App">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=gotham&show_owner=true"/>
     </a>
-    <a href="https://github.com/braydonwang/MERN-Social-Media-App">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=MERN-Social-Media-App&theme=gotham&show_owner=true"/>
-    </a>
-    <a href="https://github.com/braydonwang/MERN-Goal-Tracker">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=MERN-Goal-Tracker&theme=gotham&show_owner=true"/>
-    </a>
   </p>
 </details>
 
@@ -76,19 +62,10 @@ I am an avid computer science learner because I'm fascinated by all the things c
     <a href="https://github.com/braydonwang/MachineLearningBootcamp2021">
       <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=MachineLearningBootcamp2021&theme=gotham&show_owner=true"/>
     </a>
-    <a href="https://github.com/braydonwang/Natural-Language-Processing-Assignments">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Natural-Language-Processing-Assignments&theme=gotham"/>
-    </a>
   </p>
 </details>
 
 ## &#x1f4c8; Github Stats
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braydonwang.braydonwang)
-![](https://img.shields.io/github/followers/braydonwang?style=social)
-![](https://img.shields.io/github/forks/braydonwang/braydonwang.github.io?style=social)
-![](https://img.shields.io/github/stars/braydonwang?style=social)
-![](https://img.shields.io/github/watchers/braydonwang/braydonwang.github.io?style=social)
 
 <a href="https://github.com/braydonwang/braydonwang">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braydonwang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
