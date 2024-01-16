@@ -64,6 +64,7 @@ I am an avid computer science learner because I'm fascinated by all the things c
     </a>
   </p>
 </details>
+<br />
 
 ## &#x1f4c8; Github Stats
 
