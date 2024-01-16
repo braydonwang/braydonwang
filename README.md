@@ -21,8 +21,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
 
 ## 🧑🏻‍💻 Competitive Programming
 
-  <summary> My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like DMOJ, Codeforces and Leetcode, and I've participated in a number of contests including CCC, USACO and ECOO. </summary>
-<br />
+- My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like DMOJ, Codeforces and Leetcode, and I've participated in a number of contests including CCC, USACO and ECOO.
 <details>
   <summary> Relevant Projects </summary>
   
@@ -54,11 +53,9 @@ I'm super passionate about using technology, problem solving, and creativity to 
 
 ## 🤖 Machine Learning
 
-  <summary> My curiosity for machine learning made me attend a bootcamp over the summer that went over the basics of prediction models and neural networks. Ever since that experience, I wanted to learn everything that this large and complex topic offered. Currently, I am delving into the subtopic of Natural Language Processing (NLP) and learning how computers communicate with humans through language. </summary>
-
-  <br />
-  <details>
-  <summary>Relevant Projects</summary>
+- My curiosity for machine learning made me attend a bootcamp over the summer that went over the basics of prediction models and neural networks. Ever since that experience, I wanted to learn everything that this large and complex topic offered. Currently, I am delving into the subtopic of Natural Language Processing (NLP) and learning how computers communicate with humans through language.
+<details>
+  <summary> Relevant Projects </summary>
     
   <br />
   <p>
