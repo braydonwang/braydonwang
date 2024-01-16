@@ -1,13 +1,7 @@
 [![Header](header.gif "Header")](https://braydonwang.github.io)
 
-<a href="https://github.com/braydonwang">
-  <img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" />
-</a>
 <a href="https://discord.com/users/255388221943447552">
   <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
-</a>
-<a href="https://www.instagram.com/braydon.wang/">
-  <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/braydonwang/">
   <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
