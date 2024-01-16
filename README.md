@@ -19,12 +19,13 @@ I'm super passionate about using technology, problem solving, and creativity to 
 - 👔 Currently working as a SWE @ StratumAI, previously interned as a SWE @ Super and a SWE @ Cloudspark Labs
 - 🛠 Building tech for social good @ UW Blueprint, previously building a formula-style race car @ UW Formula Electric
 
-## Competitive Programming
+## 🧑🏻‍💻 Competitive Programming
 
-<details open>
   <summary> My interest for computer science began when I was introduced to competitive programming. I really enjoyed the logical thinking and problem solving aspect of it, and how there are multiple solutions to a single problem. I practice by solving problems on various platforms like DMOJ, Codeforces and Leetcode, and I've participated in a number of contests including CCC, USACO and ECOO. </summary>
+<br />
+<details>
+  <summary> Relevant Projects </summary>
   
-  <br />
   <p>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=gotham&show_owner=true"/>
@@ -35,10 +36,10 @@ I'm super passionate about using technology, problem solving, and creativity to 
   </p>
 </details>
 
-## Full Stack Projects
+## 🧱 Personal Projects
 
-<details open>
-  <summary> Collection of personal and collaborative full-stack projects. </summary>
+<details>
+  <summary> Collection of personal and collaborative projects. </summary>
   
   <br />
   <p>
@@ -51,12 +52,15 @@ I'm super passionate about using technology, problem solving, and creativity to 
   </p>
 </details>
 
-## Machine Learning
+## 🤖 Machine Learning
 
-<details open>
   <summary> My curiosity for machine learning made me attend a bootcamp over the summer that went over the basics of prediction models and neural networks. Ever since that experience, I wanted to learn everything that this large and complex topic offered. Currently, I am delving into the subtopic of Natural Language Processing (NLP) and learning how computers communicate with humans through language. </summary>
-  
-  <br />  22
+
+  <br />
+  <details>
+  <summary>Relevant Projects</summary>
+    
+  <br />
   <p>
     <a href="https://github.com/braydonwang/Malaria-Cell-Detection-Model">
       <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=gotham&show_owner=true"/>
