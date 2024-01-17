@@ -1,4 +1,4 @@
-[![Header](header.gif "Header")](https://braydonwang.github.io) test
+[![Header](header.gif "Header")](https://braydonwang.github.io)
 
 <a href="https://discord.com/users/255388221943447552">
   <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
