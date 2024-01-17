@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px"> Hi, I’m Braydon Wang!
 ===============	
   
-I'm a **Computer Science** student pursuing an AI specialization at the **University of Waterloo.** I'm seeking Summer 2024 SWE internships, feel free to reach out on LinkedIn or send me an email! (b392wang@uwaterloo.ca)
+I'm a **Computer Science** student pursuing an AI specialization at the **University of Waterloo.** I'm seeking **Summer 2024 SWE internships**, feel free to reach out on LinkedIn or send me an email! (b392wang@uwaterloo.ca)
 
 I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm really interested in low-level programming, concurrency, and distributed systems.
 - 👔 Currently working as a SWE @ StratumAI, previously interned as a SWE @ Super and a SWE @ Cloudspark Labs
