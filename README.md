@@ -25,15 +25,16 @@ I'm super passionate about using technology, problem solving, and creativity to 
   
 <details>
   <summary><i> &nbsp;Take a look at some of my relevant competitive programming experiences 👀</i> </summary>
-  
-  <div>
+
+  <br />
+  <p>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=default_repocard&show_owner=true"/>
     </a>
     <a href="https://github.com/braydonwang/Computer-Science-Club">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=default_repocard&show_owner=true"/>
     </a>
-  </div>
+  </p>
 </details>
 
 ## 🧱 Personal Projects
