@@ -24,7 +24,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
 - My passion for coding began with competitive programming, where I learned all about algorithms, data structures, and the key to writing efficient code quickly
   
 <details>
-  <summary> <i>Take a look at some of my relevant competitive programming experiences 👀</i> </summary>
+  <summary><i> &nbsp;Take a look at some of my relevant competitive programming experiences 👀</i> </summary>
   
   <div>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
@@ -41,7 +41,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
 - As a life-long learner with an interest in using technology to solve real world problems, I've made many personal and collaborative projects that seek to impact the world in some way, while adding new tools/tech under my belt
 
 <details>
-  <summary> <i>Browse through my collection of personal and collaborative projects 🌐 </i> </summary>
+  <summary> <i> &nbsp;Browse through my collection of personal and collaborative projects 🌐 </i> </summary>
   
   <br />
   <p>
@@ -60,7 +60,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
 - My hopes in pursuing an AI specialization is to learn more about the limitless capabilities of AI/ML and apply them to my work
   
 <details>
-  <summary> <i>Search through my relevant experiences in ML 👾</i> </summary>
+  <summary> <i> &nbsp;Search through my relevant experiences in ML 👾</i> </summary>
     
   <br />
   <p>
