@@ -24,7 +24,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
 - My passion for coding began with competitive programming, where I learned all about algorithms, data structures, and the key to writing efficient code quickly
   
 <details>
-  <summary><i> &nbsp;Take a look at some of my relevant competitive programming experiences 👀</i> </summary>
+  <summary><i> &nbsp;Take a look at some of my competitive programming experiences 👀</i> </summary>
 
   <br />
   <p>
