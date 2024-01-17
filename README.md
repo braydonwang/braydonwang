@@ -56,8 +56,8 @@ I'm super passionate about using technology, problem solving, and creativity to 
 
 ## 🤖 Machine Learning
 
-- My curiosity for ML began when I attended a bootcamp hosted by Google Developer Group, which introduced me to the world of NLP
-- Now, my hopes in pursuing an AI specialization is to learn more about the limitless capabilities of AI/ML and apply them to my work
+- My curiosity for ML began when I attended a bootcamp hosted by Google, which introduced me to the world of NLP
+- My hopes in pursuing an AI specialization is to learn more about the limitless capabilities of AI/ML and apply them to my work
   
 <details>
   <summary> <i>Search through my relevant experiences in ML 👾</i> </summary>
