@@ -29,10 +29,10 @@ I'm super passionate about using technology, problem solving, and creativity to 
   <br />
   <p>
     <a href="https://github.com/braydonwang/Competitive-Programming-Solutions">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Competitive-Programming-Solutions&theme=default_repocard"/>
     </a>
     <a href="https://github.com/braydonwang/Computer-Science-Club">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Computer-Science-Club&theme=default_repocard"/>
     </a>
   </p>
 </details>
@@ -47,10 +47,10 @@ I'm super passionate about using technology, problem solving, and creativity to 
   <br />
   <p>
     <a href="https://github.com/braydonwang/Hidden-Gems">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Hidden-Gems&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Hidden-Gems&theme=default_repocard"/>
     </a>
     <a href="https://github.com/braydonwang/Activio-App">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Activio-App&theme=default_repocard"/>
     </a>
   </p>
 </details>
@@ -66,10 +66,10 @@ I'm super passionate about using technology, problem solving, and creativity to 
   <br />
   <p>
     <a href="https://github.com/braydonwang/Malaria-Cell-Detection-Model">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Malaria-Cell-Detection-Model&theme=default_repocard"/>
     </a>
     <a href="https://github.com/braydonwang/MachineLearningBootcamp2021">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Natural-Language-Processing-Assignments&theme=default_repocard&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=braydonwang&repo=Natural-Language-Processing-Assignments&theme=default_repocard"/>
     </a>
   </p>
 </details>
