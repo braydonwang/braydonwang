@@ -16,7 +16,7 @@
 I'm a **Computer Science** student pursuing an AI specialization at the **University of Waterloo.** I'm seeking **Summer 2024 SWE internships**, feel free to reach out on LinkedIn or send me an email! (b392wang@uwaterloo.ca)
 
 I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm really interested in low-level programming, concurrency, and distributed systems.
-- 👔 Currently working as a SWE @ <ins>StratumAI</ins>, previously interned as a SWE @ <ins>Super</ins> and a SWE @ <ins>Cloudspark Labs</ins>
+- 👔 Currently working as a SWE @ <ins>NimbleRx</ins>, previously interned as a SWE @ <ins>StratumAI</ins>, <ins>Super</ins> and <ins>Cloudspark Labs</ins>
 - 🛠 Building tech for social good @ <ins>UW Blueprint</ins>, previously building a formula-style race car @ <ins>UW Formula Electric</ins>
 
 ## 🧑🏻‍💻 Competitive Programming
