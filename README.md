@@ -15,7 +15,7 @@
   
 I'm a **Computer Science** student pursuing an AI specialization at the **University of Waterloo.** I'm seeking **2026 New Grad SWE Opportunities**, feel free to reach out on LinkedIn or send me an email! (b392wang@uwaterloo.ca)
 
-I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm interested in low-level infra systems, concurrent/parallel programming, and distributed systems.
+I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm interested in low-level infrastructure, concurrent/parallel programming, and distributed systems.
 - 👔 Currently working as a SWE @ <ins>Meta</ins>, working on distributed file systems and blob storage in C++
 - 🛠 Previously interned as a SWE @ <ins>Snowflake</ins>, <ins>NimbleRx (YC W15)</ins> and <ins>StratumAI (YC W20)</ins>
 
