@@ -73,9 +73,3 @@ I'm super passionate about using technology, problem solving, and creativity to 
     </a>
   </p>
 </details>
-
-## 📊 Github Stats
-
-<a href="https://github.com/braydonwang/braydonwang">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braydonwang&langs_count=8&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&hide=jupyter%20notebook,cmake,html,css,makefile,shell,procfile" />
-</a>
